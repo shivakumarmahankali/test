@@ -20,7 +20,7 @@ namespace UnitTestProject
         {
             string data = "TFS CI/CD Run";
 
-            Assert.AreEqual("TFS CI/CD Run1", data);
+            Assert.AreEqual("TFS CI/CD Run", data);
         }
     }
 }
